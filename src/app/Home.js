@@ -116,8 +116,8 @@ class Home extends Component {
                                     showExpandableButton={true}
                                 />
                                 <CardActions>
-                                    <FlatButton label="Action1" />
-                                    <FlatButton label="Action2" />
+                                    <FlatButton label="Style1" />
+                                    <FlatButton label="Style2" />
                                 </CardActions>
                             </Card>
                         </div>
