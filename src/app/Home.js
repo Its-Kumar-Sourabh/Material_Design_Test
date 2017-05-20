@@ -123,7 +123,7 @@ class Home extends Component {
                         </div>
                     </Tab>
                     <Tab label="Calender"
-                        style={{ fontSize: '10', backgroundColor: '#48C9B0' }}>
+                        style={{ fontSize: '12', backgroundColor: '#48C9B0' }}>
                         <div>
                             <h2 style={styles.headline}>Tab Two</h2>
                             <p> This is another example tab.</p>
